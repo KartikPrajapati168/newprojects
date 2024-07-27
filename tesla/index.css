@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+     font-family:sans-serif;
+}
+.first{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Desktop-LHD-v2.jpg");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:569px;
+}
+
+.first2{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-Y-Desktop-Global.png");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.first3{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-X-Desktop-v2.jpg");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.first4{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-v2.jpg");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.first5{
+    background: url("https://digitalassets.tesla.com/discovery-tesla-com/image/upload/f_auto,q_auto/Homepage-Cybertruck-Desktop.jpg");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.first6{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-SolarPanels-01-Desktop");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+    }
+    
+.first7{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-SolarRoof-Desktop-Global");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.first8{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Powerwall-01-Desktop.jpg");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.first9{
+    background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Desktop-NA-APAC.jpg");
+    background-position: center center;
+    background-size: max(800px,1250px);
+    background-repeat: no-repeat;
+    height:565px;
+}
+
+.tds-icon{
+    width:150px;
+    height:150px;
+    position:relative;
+    left:30px;
+    }
+    
+    nav ul{
+        display:flex;
+        justify-content: space-around;
+        gap:880px;
+        align-items: center;
+        position:relative;
+        height:75px;
+        }
+        
+        ul li{
+            list-style: none;
+            }
+            
+            .btn-div{
+                display:flex;
+                justify-content: center;
+                align-items: center;
+                gap:100px;
+                }
+                
+                .btn-menu{
+                    width:80px;
+                    height:34px;
+                    background-color: rgba(105, 96, 96, 0.103);
+                    border:none;
+                    font-weight:bold;
+                    }
+                    
+                    .column{
+                        display:flex;
+                        gap:290px;
+                        justify-content: center;
+                    align-items: center;
+    max-width:80vw;
+    margin:0px auto;
+    flex-direction: column;
+}
+
+.column2{
+    position:relative;
+    top:65px;
+    gap:315px;
+}
+
+.column3{
+    position:relative;
+    top:65px;
+    gap:615px;
+}
+
+.solar{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white;
+    gap:10px;
+}
+
+.solar-roof{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white;
+    gap:10px;
+}
+
+.solar-roof .roof{
+    font-size:34px;
+    font-weight:bold;
+    color:black;
+}
+
+.clean{
+    font-size:15px;
+    font-weight:bold;
+    color:black;
+}
+
+.solar span{
+    font-size:40px;
+    font-weight:bold;
+}
+
+.solar a{
+    color:#fff;
+}
+
+.column4{
+    position:relative;
+    top:65px;
+    gap:335px;
+}
+
+.column5{
+    position:relative;
+    top:65px;
+    gap:390px;
+}
+
+.column6{
+    position:relative;
+    top:65px;
+    gap:310px;
+}
+
+.accessories{
+    color:black;
+    font-size:34px;
+    font-weight:bold;
+}
+
+.shop{
+    color:rgb(72, 64, 64);
+    width:300px;
+    height:42px;
+    font-weight:bold;
+}
+
+.power{
+    font-size:30px;
+    color:black;
+}
+
+.gap{
+    display:flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+
+.gap-2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lin{
+    color:black;
+    font-size:26px;
+}
+
+.model{
+    font-size:45px;
+    font-weight:bold;
+}
+
+.link{
+    color:black;
+    font-weight:600;
+    font-size:27px;
+}
+
+.order{
+    width:270px;
+    height:43px;
+    border-radius:5px;
+    border:none;
+    color:grey;
+    font-weight:bold;
+    background-color: #fff;
+}
+
+.demo{
+    width:270px;
+    height:43px;
+    border:none;
+    border-radius:5px;
+    background-color: black;
+    color:#fff;
+}
+
+.order-buttons{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+
+footer{
+    height:400px;
+    background-color: black;
+    color:white;
+    font-size:16px;
+}
+
+.footer-flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width:70vw;
+    gap:20px;
+    padding-top:50px;
+    margin:0px auto;
+}
+
+.foot-flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.horizontal{
+    position:relative;
+    bottom:-50px;
+    display:flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    font-size:15px;
+    cursor:pointer;
+    margin:3px;
+    color:white;
+}
